@@ -9,11 +9,11 @@ Every file here is something I wrote and tested myself — no copy-paste or ctrl
 ### Folder Structure
 
 - **Day01**
-  - OddEven.java – count even/odd numbers in an array
-  - ReverseArray.java – reverse and print an array
+  - `OddEven.java` – count even/odd numbers in an array
+  - `ReverseArray.java` – reverse and print an array
 - **Day02**
-  - Factorial.java – basic factorial using loop + method
-  - Palindrome.java – check if a string is a palindrome
+  - `Factorial.java` – basic factorial using loop + method
+  - `Palindrome.java` – check if a string is a palindrome
 **Day03**
   - `PatternStars.java` – Prints a triangle/star pattern using loops
   - `ReverseString.java` – Reverses a string manually (no built-in methods)
