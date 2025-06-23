@@ -14,6 +14,10 @@ Every file here is something I wrote and tested myself — no copy-paste or ctrl
 - **Day02**
   - Factorial.java – basic factorial using loop + method
   - Palindrome.java – check if a string is a palindrome
+**Day03**
+  - `PatternStars.java` – Prints a triangle/star pattern using loops
+  - `ReverseString.java` – Reverses a string manually (no built-in methods)
+  - `WordCount.java` – Counts words in a sentence using loops
 
 ---
 
