@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Maxarray {
+public class MaxInArray {
     public static int max(int a[]){
         int max=a[0];
         int n =a.length;
