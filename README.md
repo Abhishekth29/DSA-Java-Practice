@@ -24,7 +24,7 @@ Every file here is something I wrote and tested myself — no copy-paste or ctrl
 ### 💻 LeetCode Progress
 
 - **Day01**
-  - `TwoSum.java` – Brute-force solution for Two Sum (basic array problem)
+  - `Twosum.java` – Brute-force solution for Two Sum (basic array problem)
 ---
 
 ### Why this repo?
