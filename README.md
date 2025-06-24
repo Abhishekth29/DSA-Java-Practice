@@ -18,7 +18,13 @@ Every file here is something I wrote and tested myself — no copy-paste or ctrl
   - `PatternStars.java` – Prints a triangle/star pattern using loops
   - `ReverseString.java` – Reverses a string manually (no built-in methods)
   - `WordCount.java` – Counts words in a sentence using loops
+**Day04**
+  - `MaxInArray.java` – Find the max element in a user-input array
+---
+### 💻 LeetCode Progress
 
+- **Day01**
+  - `TwoSum.java` – Brute-force solution for Two Sum (basic array problem)
 ---
 
 ### Why this repo?
